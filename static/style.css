@@ -1,0 +1,81 @@
+body{
+    font-family: 'Mona-Sans', sans-serif;
+}
+
+.price{
+    font-weight: bold;
+}
+
+.explore-button{
+    border-radius: 12px;
+    padding: 10px 24px;
+}
+
+.users{
+    margin-left: 3rem; 
+    font-weight: bold;
+}
+
+.title{
+    font-size: 4rem;
+    word-spacing: -5px;
+}
+
+.joined-users{
+    margin-left: 11.2rem;
+}
+
+.community{
+    font-weight: bold;
+}
+
+.icon-button{
+    border-radius: 12px;
+    padding: 10px 24px;
+}
+
+.image-card{
+    background-color: bisque;
+}
+
+.product-card{
+    height: 30%;
+}
+
+.first-product{
+    background-color: #F3EEE8;
+}
+
+.second-product{
+    background-color: #E8ECEF;
+}
+
+.third-product{
+    background-color: #F4E9E5;
+    background-size: contain;
+}
+
+.banner{
+    background-color: #EEF2F3;
+}
+
+.trending-title{
+    text-align: center;
+    font-weight: bold;
+    word-spacing: -5px;
+    font-size: 3.2rem;
+}
+
+.trending-description{
+    text-align: center;
+    color: gray;
+}
+
+.trending-card{
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.view-all{
+    padding: 10px 24px;
+}
