@@ -76,6 +76,19 @@ body{
     padding-bottom: 5em;
 }
 
-.view-all{
-    padding: 10px 24px;
+.button-box{
+    text-align:center;
+}
+
+.best-seller{
+    display: inline-block;
+}
+
+.parent {
+    display: flex;
+    flex-direction: row;
+}
+  
+.child {
+    flex-grow: 1;
 }
